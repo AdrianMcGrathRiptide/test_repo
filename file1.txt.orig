@@ -1,0 +1,7 @@
+fake file 2
+<<<<<<< HEAD
+line 2
+line 3
+=======
+line 2
+>>>>>>> e5bb08df81fa7627d8966fe96d8a6e1625207505
